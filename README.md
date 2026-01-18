@@ -38,8 +38,8 @@ The dataset consists of over 9,000 images of fish across 9 species. Images vary 
 ### Train/Validation/Test Split
 
 - Training: 60%
-- Validation: 30%
-- Test: 30%
+- Validation: 20%
+- Test: 20%
 
 ---
 
